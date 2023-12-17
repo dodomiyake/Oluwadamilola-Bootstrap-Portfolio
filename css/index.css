@@ -1,14 +1,21 @@
-.navbar {
-    margin: 0;
+html, body {
+    width: 100%;
+    background-color: #0f0f0f;
+    
+}
+
+.container-fluid {
     padding: 0;
     background-color: #494949 !important;
 }
 
+.navbar {
+    padding: 0;
+}
+
 .navbar-nav {
-    position: fixed;
     top: -11;
-    width: 25%;
-    height: 100%;
+    width: 350px;
 }
 
 
@@ -24,3 +31,14 @@
         500px 0 0 rgba(255, 255, 255, 0.03) inset !important;
         padding: 14px 0px 26px 0px;
 }
+
+.container {
+    margin-top: 80px;
+}
+
+.title {
+    font-size: 38px;
+    margin-top: 20px;
+}
+
+
