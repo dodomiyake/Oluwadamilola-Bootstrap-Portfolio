@@ -36,19 +36,23 @@ html, body {
     margin-top: 80px;
 }
 
+
 .title {
     font-size: 38px;
     margin-top: 60px;
 }
 
 .row {
-    margin-left: 23px;
     margin-bottom: 110px;
 }
 
-.aboutme {
+#About {
     background-color: #161616 !important;
+}
+
+.aboutme {
     margin-bottom: 30px !important;
+    margin: 0 20px;
 }
 
 .horizontal-line {
