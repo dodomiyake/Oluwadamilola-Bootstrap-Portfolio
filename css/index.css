@@ -43,7 +43,35 @@ html, body {
 
 .row {
     margin-left: 23px;
+    margin-bottom: 110px;
 }
+
+.aboutme {
+    background-color: #161616 !important;
+    margin-bottom: 30px !important;
+}
+
+.horizontal-line {
+    margin: 0 auto;
+    width: 200px;
+    height: 1px;
+    background-color: #2e2e2e;
+}
+
+.aboutme-title {
+    margin-bottom: 50px !important;
+}
+
+u {
+    padding-bottom:10px;
+    text-decoration:none;
+    border-bottom:1px solid #dfdfdf;
+  }
+
+  .mypix {
+    width: 350px;
+    height: 350px;
+  }
 
 
 
