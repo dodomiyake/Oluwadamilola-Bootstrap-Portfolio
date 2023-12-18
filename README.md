@@ -23,8 +23,9 @@ You can access the live demo of the portfolio website at [Oluwadamilola-Bootstra
 
 ## Technologies Used
 
-![image](https://github.com/dodomiyake/Oluwadamilola-Bootstrap-Portfolio/assets/70576110/9326c2c8-226b-4a54-8805-37685d7bd618)
-HTML5
+
+- HTML5
+  ![image](https://github.com/dodomiyake/Oluwadamilola-Bootstrap-Portfolio/assets/70576110/9326c2c8-226b-4a54-8805-37685d7bd618)
 - CSS3 (For styling)
 - Bootstrap
 - Responsive design principles
