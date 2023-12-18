@@ -58,7 +58,7 @@ git clone https://github.com/your-username/your-portfolio.git
 ```bash
 cd your-portfolio
 ```
-## Open index.html in your browser
+Open `index.html` in your browser
 
 ## Usage
 
