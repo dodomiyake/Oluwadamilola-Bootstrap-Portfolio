@@ -30,7 +30,7 @@ You can access the live demo of the portfolio website at [Oluwadamilola-Bootstra
 ![icons8-css3-144](https://github.com/dodomiyake/my-portfolio/assets/70576110/1516d506-f23f-4055-80ad-6472996a84f5)
 - CSS3 (For styling)
 
-  ![image](https://github.com/dodomiyake/Oluwadamilola-Bootstrap-Portfolio/assets/70576110/36a35d7b-95f3-4937-94bd-d49388148251)
+![image](https://github.com/dodomiyake/Oluwadamilola-Bootstrap-Portfolio/assets/70576110/36a35d7b-95f3-4937-94bd-d49388148251)
 - Bootstrap
 - Responsive design principles
 
