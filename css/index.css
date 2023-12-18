@@ -39,14 +39,14 @@ html, body {
     margin-bottom: 98px !important;
 }
 
-.title {
-    font-size: 36px;
-    margin-top: 60px;
-}
-
 .row {
     margin-bottom: 110px;
     margin: 0 10px;
+}
+
+.title {
+    font-size: 36px;
+    margin-top: 60px;
 }
 
 #About {
@@ -58,21 +58,14 @@ html, body {
     margin: 0 10px;
 }
 
+.aboutme-title {
+    margin-bottom: 90px !important;
+}
+
 .aboutme p {
     text-align: justify;
     text-justify: inter-cluster;
     word-spacing: 1;
-}
-
-.horizontal-line {
-    margin: 0 auto;
-    width: 200px;
-    height: 1px;
-    background-color: #2e2e2e;
-}
-
-.aboutme-title {
-    margin-bottom: 50px !important;
 }
 
 u {
@@ -83,10 +76,6 @@ u {
 
 .mypix {
     width: 350px;
-    height: 350px;
-}
-
-.cardContainer img {
     height: 350px;
 }
 
@@ -123,7 +112,7 @@ u {
 
 span {
     font-size: 13px;
-    color: #818181;
+    color: #aaaaaa;
 }
 
 .imagegridarea:hover {
