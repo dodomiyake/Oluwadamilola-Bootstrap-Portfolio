@@ -64,9 +64,9 @@ Open `index.html` in your browser
 
 Feel free to explore different sections of the portfolio:
 
-About Me: Learn more about my background and interests.
-Works: Check out my featured projects with live links and descriptions.
-Skills: A list of technologies and skills I specialize in.
-Contact: Reach out to me using the provided contact form.
+- About Me: Learn more about my background and interests.
+- Works: Check out my featured projects with live links and descriptions.
+- Skills: A list of technologies and skills I specialize in.
+- Contact: Reach out to me using the provided contact form.
 
 
