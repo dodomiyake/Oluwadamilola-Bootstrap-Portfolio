@@ -49,12 +49,12 @@ The following technologies and frameworks was used to build the portfolio:
 
 Provide step-by-step instructions on how to clone and set up the project locally.
 
-## Clone the repository
+### Clone the repository
 ```bash
 
 git clone https://github.com/your-username/your-portfolio.git
 ```
-## Navigate to the project folder
+### Navigate to the project folder
 ```bash
 cd your-portfolio
 ```
