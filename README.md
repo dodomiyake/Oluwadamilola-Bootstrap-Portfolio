@@ -1,4 +1,4 @@
-# Oluwadamilola's Front-End Developer Bootstrap Portfolio
+# My Front-End Developer Bootstrap Portfolio
 
 Welcome to the repository for my front-end developer portfolio. This project showcases my skills, projects, and experiences in creating interactive and user-friendly web interfaces.
 
