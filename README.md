@@ -19,7 +19,7 @@ Welcome to my Front End Developer Portfolio! This webpage showcases my skills, p
 
 ## About
 
-Provide a brief introduction about yourself and the purpose of your portfolio webpage. Explain what visitors can expect to find.
+I am passionate about creating intuitive and visually appealing web experiences. This portfolio showcases my journey, skills, and the projects I have worked on.
 
 ## Features
 
