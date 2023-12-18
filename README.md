@@ -19,7 +19,7 @@ As a front-end developer, I am passionate about crafting visually appealing and 
 You can access the live demo of the portfolio website at [Oluwadamilola-Bootstrap-portfolio.com](https://dodomiyake.github.io/Oluwadamilola-Bootstrap-Portfolio/).
 
 #### Screenshot
-
+![Alt text](screencapture-dodomiyake-github-io-Oluwadamilola-Bootstrap-Portfolio.png)
 
 ## Technologies Used
 
