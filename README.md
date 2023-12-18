@@ -43,7 +43,7 @@ To run this project locally, follow these steps:
 3. Use the contact section to get in touch with me.
 
 ## Project Structure
-
+```
 Oluwadamilola-Bootstrap-Portfolio/
 │
 ├── index.html
@@ -52,7 +52,7 @@ Oluwadamilola-Bootstrap-Portfolio/
 │ └── [additional stylesheets...]
 ├── images/
 └── [image files...]
-
+```
 ## Contributing
 
 If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request. Contributions are welcome!
