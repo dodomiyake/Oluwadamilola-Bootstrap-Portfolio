@@ -79,16 +79,28 @@ u {
     height: 350px;
 }
 
-.work1, .work4 {
-    background-image: url("../images/htmlcss.jpg");
+.work1 {
+    background-image: url("../images/pic1.png");
 }
 
-.work2, .work5 {
-    background-image: url("../images/htmlcss2.jpg");
+.work2 {
+    background-image: url("../images/pic2.png");
 }
 
-.work3, .work6 {
-    background-image: url("../images/reactjs.jpg");
+.work3 {
+    background-image: url("../images/pic3.png");
+}
+
+.work4 {
+    background-image: url("../images/pic4.png");
+}
+
+.work5 {
+    background-image: url("../images/pic5.png");
+}
+
+.work6 {
+    background-image: url("../images/pic6.png");
 }
 
 .imagegridarea {
